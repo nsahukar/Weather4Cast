@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather4Cast</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- main activity -->
+    <string name="city_hint">City</string>
+    <string name="country_hint">Country</string>
+    <string name="enter_details_text">
+        Enter City and Country and press \"show\" to see the weather forecast of the same.
+    </string>
+    <string name="show_button">Show</string>
+    <string name="no_network_msg">I cannot foresee. You are not connected to Internet.</string>
+    
+    <!-- weather activity -->
+    <string name="one_word_desc_prefix">I foresee</string>
+    <string name="forgot_to_enter_city">your head. Try entering \"city name\" next time.</string>
+    <string name="no_such_city">There is no such city. Try Searching JUPITER!!!</string>
+    <string name="enjoy">ENJOY THE DAY!</string>
+
+</resources>
