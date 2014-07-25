@@ -1,4 +1,4 @@
 Weather4Cast
 ============
 
-A Simple demo app meant for showing how to basically consume a web service in android.
+A Simple demo app showing how to consume a web service in android.
